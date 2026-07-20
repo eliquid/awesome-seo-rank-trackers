@@ -13,6 +13,7 @@ Top Ranked Online SEO Rank Tracker Tools
 * [SerpStream](https://serpstream.com/ "Search Engine Ranking Position tracking software which enables you to monitor your rankings and placements in search engine results.") - Search Engine Ranking Position tracking software which enables you to monitor your rankings and placements in search engine results.
 * [CognitiveSeo Rank Tracker](https://cognitiveseo.com/ranktracker/ "Accurately track and monitor their SEO rankings in order to report and get notified when Google SERPs change.") - Accurately track and monitor their SEO rankings in order to report and get notified when Google SERPs change.
 * [Rank Tracker](https://www.ranktracker.com/ "Rank Tracker is the most reliable SEO tool for tracking and improving keyword rankings across multiple websites and search engines.") - Rank Tracker is the most reliable SEO tool for tracking and improving keyword rankings across multiple websites and search engines.
+* [Screpy](https://screpy.com/) - Tracks keyword rankings by location and device and provides SERP competitor context.
 
 Online SEO Rank Tracker Articles & Advice
 ------
